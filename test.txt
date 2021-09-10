@@ -2,3 +2,5 @@ This is a file used to test.
 Git is a version control system.
 
 add a line to test the modification of the test.txt
+
+change it to test git fetch and git merge
